@@ -1,0 +1,1 @@
+layoffs.csv is the raw data that contains information about the layoffs from different companies which has lot of missing values and unstructured data. By using the SQL statements data cleaning and data manipulation is done in this project.
